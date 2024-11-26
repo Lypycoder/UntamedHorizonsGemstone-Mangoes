@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "untamedhorizons:block/sapphire_block",
+    "side": "untamedhorizons:block/sapphire_block",
+    "top": "untamedhorizons:block/sapphire_block"
+  }
+}
