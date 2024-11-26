@@ -1,0 +1,40 @@
+{
+  "item.untamedhorizons.sapphire": "Sapphire",
+  "item.untamedhorizons.raw_sapphire": "Raw Sapphire",
+
+  "item.untamedhorizons.metal_detector": "Metal Detector",
+  "item.untamedhorizons.strawberry": "Strawberry",
+  "item.untamedhorizons.pine_cone": "Pine Cone",
+  "item.untamedhorizons.sapphire_staff": "Sapphire Staff",
+
+  "item.untamedhorizons.sapphire_sword": "Sapphire Sword",
+  "item.untamedhorizons.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.untamedhorizons.sapphire_axe": "Sapphire Axe",
+  "item.untamedhorizons.sapphire_shovel": "Sapphire Shovel",
+  "item.untamedhorizons.sapphire_hoe": "Sapphire Hoe",
+
+  "block.untamedhorizons.sapphire_block": "Block of Sapphire",
+  "block.untamedhorizons.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.untamedhorizons.sapphire_ore": "Sapphire Ore",
+  "block.untamedhorizons.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.untamedhorizons.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.untamedhorizons.nether_sapphire_ore": "Nether Sapphire Ore",
+
+  "block.untamedhorizons.sound_block": "Sound Block",
+
+  "block.untamedhorizons.sapphire_stairs": "Sapphire Stairs",
+  "block.untamedhorizons.sapphire_slab": "Sapphire Slab",
+  "block.untamedhorizons.sapphire_button": "Sapphire Button",
+  "block.untamedhorizons.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.untamedhorizons.sapphire_fence": "Sapphire Fence",
+  "block.untamedhorizons.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.untamedhorizons.sapphire_wall": "Sapphire Wall",
+  "block.untamedhorizons.sapphire_door": "Sapphire Door",
+  "block.untamedhorizons.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "tooltip.untamedhorizons.metal_detector.tooltip": "Finds valuables underground!",
+
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
