@@ -1,0 +1,17 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /Users/lukeyan/.gradle/caches/modules-2/files-2.1/curse.maven/create-328085/5838779/fab2ae7fcf685b3875ca20022bfecf0d4fdafbf7/create-328085-5838779.jar, --output, /Users/lukeyan/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/create-328085/5838779_mapped_parchment_2023.06.26-1.20.1/create-328085-5838779_mapped_parchment_2023.06.26-1.20.1.jar, --mcp, /Users/lukeyan/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.1/2023.06.26/parchment-1.20.1-2023.06.26.zip, --strip-signatures'
+Classpath:
+ - /Users/lukeyan/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.4.4/installertools-1.4.4-fatjar.jar
+Working directory: /Users/lukeyan/Downloads/Forge-Tutorial-1.20.X-15-tools/build/_RenameSrg2Mcp_-544251794
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /Users/lukeyan/.gradle/caches/modules-2/files-2.1/curse.maven/create-328085/5838779/fab2ae7fcf685b3875ca20022bfecf0d4fdafbf7/create-328085-5838779.jar
+Output: /Users/lukeyan/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/create-328085/5838779_mapped_parchment_2023.06.26-1.20.1/create-328085-5838779_mapped_parchment_2023.06.26-1.20.1.jar
+MCP:    /Users/lukeyan/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.1/2023.06.26/parchment-1.20.1-2023.06.26.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Stripped Manifest of sha digests
+Stripped Manifest of sha digests
+Process complete
