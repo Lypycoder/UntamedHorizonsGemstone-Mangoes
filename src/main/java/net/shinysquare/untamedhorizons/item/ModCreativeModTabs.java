@@ -15,16 +15,14 @@ public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, UntamedHorizons.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MODE_TABS.register("tutorial_tab",
+    public static final RegistryObject<CreativeModeTab> BUILDING = CREATIVE_MODE_TABS.register("bd",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SAPPHIRE.get()))
-                    .title(Component.translatable("creativetab.tutorial_tab"))
+                    .title(Component.translatable("creativetab.bd"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SAPPHIRE.get());
                         pOutput.accept(ModItems.RAW_SAPPHIRE.get());
 
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
-
-                        pOutput.accept(Items.DIAMOND);
 
                         pOutput.accept(ModItems.STRAWBERRY.get());
                         pOutput.accept(ModItems.PINE_CONE.get());
@@ -60,7 +58,35 @@ public class ModCreativeModTabs {
 
                     })
                     .build());
+    public static final RegistryObject<CreativeModeTab> MOREORES = CREATIVE_MODE_TABS.register("mo",
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.PERFECT_TOPAZ.get()))
+                    .title(Component.translatable("creativetab.mo"))
+                    .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(ModItems.FLAWED_RUBY.get());
+                        pOutput.accept(ModItems.ROUGH_RUBY.get());
+                        pOutput.accept(ModItems.FINE_RUBY.get());
+                        pOutput.accept(ModItems.FLAWLESS_RUBY.get());
+                        pOutput.accept(ModItems.PERFECT_RUBY.get());
 
+                        pOutput.accept(ModItems.FLAWED_SAPPHIRE.get());
+                        pOutput.accept(ModItems.ROUGH_SAPPHIRE.get());
+                        pOutput.accept(ModItems.FINE_SAPPHIRE.get());
+                        pOutput.accept(ModItems.FLAWLESS_SAPPHIRE.get());
+                        pOutput.accept(ModItems.PERFECT_SAPPHIRE.get());
+
+                        pOutput.accept(ModItems.FLAWED_TOPAZ.get());
+                        pOutput.accept(ModItems.ROUGH_TOPAZ.get());
+                        pOutput.accept(ModItems.FINE_TOPAZ.get());
+                        pOutput.accept(ModItems.FLAWLESS_TOPAZ.get());
+                        pOutput.accept(ModItems.PERFECT_TOPAZ.get());
+
+                        pOutput.accept(ModItems.FLAWED_JADE.get());
+                        pOutput.accept(ModItems.ROUGH_JADE.get());
+                        pOutput.accept(ModItems.FINE_JADE.get());
+                        pOutput.accept(ModItems.FLAWLESS_JADE.get());
+                        pOutput.accept(ModItems.PERFECT_JADE.get());
+                    })
+                    .build());
 
     public static void register(IEventBus eventBus) {
         CREATIVE_MODE_TABS.register(eventBus);
