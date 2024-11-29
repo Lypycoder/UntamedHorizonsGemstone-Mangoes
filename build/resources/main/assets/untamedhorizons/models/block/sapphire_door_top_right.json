@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "untamedhorizons:block/sapphire_door_bottom",
+    "top": "untamedhorizons:block/sapphire_door_top"
+  }
+}
