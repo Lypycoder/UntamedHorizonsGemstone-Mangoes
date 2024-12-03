@@ -82,7 +82,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.UntamedHorizonsGemstone-Mangoes [runData]">
     <configuration name="UntamedHorizonsGemstone-Mangoes [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -140,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.UntamedHorizonsGemstone-Mangoes [runClient]" />
         <item itemvalue="Gradle.UntamedHorizonsGemstone-Mangoes [runData]" />
+        <item itemvalue="Gradle.UntamedHorizonsGemstone-Mangoes [runClient]" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733262087549</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Stuff">
+      <option name="closed" value="true" />
+      <created>1733262152049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262152049</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New Stuff">
+      <option name="closed" value="true" />
+      <created>1733262179409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262179409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Stuff">
+      <option name="closed" value="true" />
+      <created>1733262503769</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262503770</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New Stuff">
+      <option name="closed" value="true" />
+      <created>1733262519662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262519662</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
