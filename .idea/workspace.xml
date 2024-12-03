@@ -82,7 +82,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.UntamedHorizonsGemstone-Mangoes [runClient]">
+  <component name="RunManager">
     <configuration name="UntamedHorizonsGemstone-Mangoes [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
