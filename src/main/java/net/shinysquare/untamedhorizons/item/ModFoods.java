@@ -7,4 +7,6 @@ import net.minecraft.world.food.FoodProperties;
 public class ModFoods {
     public static final FoodProperties STRAWBERRY = new FoodProperties.Builder().nutrition(2).fast()
             .saturationMod(0.2f).effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 200), 0.1f).build();
+    public static final FoodProperties MANGO = new FoodProperties.Builder().nutrition(10).fast()
+            .saturationMod(0.8f).effect(() -> new MobEffectInstance(MobEffects.ABSORPTION, 200,10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.SATURATION, 200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.DAMAGE_BOOST, 200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.ABSORPTION, 200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.CONDUIT_POWER,200,10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE,200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.DIG_SPEED, 200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.DOLPHINS_GRACE,200, 10), 0.1f).effect(() -> new MobEffectInstance(MobEffects.HEALTH_BOOST,200,30), 0.1f).build();
 }
