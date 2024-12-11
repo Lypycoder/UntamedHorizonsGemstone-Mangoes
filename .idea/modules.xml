@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MCreatorWorkspaces.UntamedHorizonsGemstone-Mangoes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MCreatorWorkspaces.UntamedHorizonsGemstone-Mangoes.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MCreatorWorkspaces.UntamedHorizonsGemstone-Mangoes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MCreatorWorkspaces.UntamedHorizonsGemstone-Mangoes.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UntamedHorizonsGemstone-Mangoes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UntamedHorizonsGemstone-Mangoes.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UntamedHorizonsGemstone-Mangoes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/UntamedHorizonsGemstone-Mangoes.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.shinysquare.untamedhorizons.UntamedHorizonsGemstone-Mangoes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.shinysquare.untamedhorizons.UntamedHorizonsGemstone-Mangoes.main.iml" />
