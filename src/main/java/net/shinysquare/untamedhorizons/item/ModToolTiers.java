@@ -16,5 +16,9 @@ public class ModToolTiers {
             new ForgeTier(5, 1500, 5f, 4f, 25,
                     ModTags.Blocks.NEEDS_SAPPHIRE_TOOL, () -> Ingredient.of(ModItems.SAPPHIRE.get())),
             new ResourceLocation(UntamedHorizons.MOD_ID, "sapphire"), List.of(Tiers.NETHERITE), List.of());
+    public static final Tier RUBY_DRILL = TierSortingRegistry.registerTier(
+            new ForgeTier(7, 3000, 7f, 5f, 25,
+                    ModTags.Blocks.BKPWR_7, () -> Ingredient.of(ModItems.FINE_RUBY.get())),
+            new ResourceLocation(UntamedHorizons.MOD_ID, "fine_ruby"), List.of(Tiers.NETHERITE), List.of());
 
 }
