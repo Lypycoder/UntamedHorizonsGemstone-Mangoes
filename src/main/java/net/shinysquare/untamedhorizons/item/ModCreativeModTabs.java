@@ -82,6 +82,7 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.MANGO.get());
                         pOutput.accept(ModItems.STRAWBERRY.get());
+                        pOutput.accept(ModItems.TOMATO.get());
                     })
                     .build());
     public static final RegistryObject<CreativeModeTab> MORETOOLS = CREATIVE_MODE_TABS.register("mt",

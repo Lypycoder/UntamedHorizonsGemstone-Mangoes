@@ -33,6 +33,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> MANGO = ITEMS.register("mango",
             () -> new Item(new Item.Properties().food(ModFoods.MANGO)));
+    public static final RegistryObject<Item> TOMATO = ITEMS.register("tomato",
+            () -> new Item(new Item.Properties().food(ModFoods.TOMATO)));
 
 
     public static final RegistryObject<Item> SAPPHIRE_SWORD = ITEMS.register("sapphire_sword",
@@ -89,6 +91,7 @@ public class ModItems {
             FLAWLESSGEMSTONEItem::new);
     public static final RegistryObject<Item> PERFECT_JADE = ITEMS.register("perfect_jade",
             PERFECTGEMSTONEItem::new);
+
 
 
 
