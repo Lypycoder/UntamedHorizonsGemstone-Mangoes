@@ -21,6 +21,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     @Override
     protected void registerModels() {
 
+        simpleItem(ModItems.TOMATO);
         simpleItem(ModItems.ROUGH_SAPPHIRE);
         simpleItem(ModItems.FLAWED_SAPPHIRE);
         simpleItem(ModItems.FINE_SAPPHIRE);
@@ -51,6 +52,8 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.METAL_DETECTOR);
         simpleItem(ModItems.PINE_CONE);
         simpleItem(ModItems.STRAWBERRY);
+        simpleItem(ModItems.TOMATO);
+        simpleItem(ModItems.TOMATO_SAUCE_NOT_KETCHUP);
 
         simpleBlockItem(ModBlocks.SAPPHIRE_DOOR);
 

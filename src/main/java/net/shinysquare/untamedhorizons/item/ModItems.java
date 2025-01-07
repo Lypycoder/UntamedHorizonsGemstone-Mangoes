@@ -36,8 +36,8 @@ public class ModItems {
     public static final RegistryObject<Item> TOMATO = ITEMS.register("tomato",
             () -> new Item(new Item.Properties().food(ModFoods.TOMATO)));
 
-    public static final RegistryObject<Item> PIZZA_DOUGH = ITEMS.register("pizza_dough",
-            () -> new Item(new Item.Properties().food(ModFoods.PIZZA_DOUGH)));
+    public static final RegistryObject<Item> TOMATO_SAUCE_NOT_KETCHUP = ITEMS.register("pizza_dough",
+            () -> new Item(new Item.Properties().food(ModFoods.TOMATO_SAUCE_NOT_KETCHUP)));
 
 
     public static final RegistryObject<Item> SAPPHIRE_SWORD = ITEMS.register("sapphire_sword",

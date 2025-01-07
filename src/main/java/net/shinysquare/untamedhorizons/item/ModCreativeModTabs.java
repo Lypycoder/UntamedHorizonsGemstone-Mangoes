@@ -78,11 +78,13 @@ public class ModCreativeModTabs {
                     .build());
     public static final RegistryObject<CreativeModeTab> MOREFOODS = CREATIVE_MODE_TABS.register("mf",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.MANGO.get()))
-                    .title(Component.translatable("creativetab.mo"))
+                    .title(Component.translatable("creativetab.mf"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.MANGO.get());
                         pOutput.accept(ModItems.STRAWBERRY.get());
                         pOutput.accept(ModItems.TOMATO.get());
+                        pOutput.accept(ModItems.TOMATO_SAUCE_NOT_KETCHUP.get());
+
                     })
                     .build());
     public static final RegistryObject<CreativeModeTab> MORETOOLS = CREATIVE_MODE_TABS.register("mt",
