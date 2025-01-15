@@ -40,7 +40,7 @@ public class ModCreativeModTabs {
 
                     })
                     .build());
-    public static final RegistryObject<CreativeModeTab> MOREORES = CREATIVE_MODE_TABS.register("mo",
+    public static final RegistryObject<CreativeModeTab> MOREMINING = CREATIVE_MODE_TABS.register("mo",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.PERFECT_TOPAZ.get()))
                     .title(Component.translatable("creativetab.mo"))
                     .displayItems((pParameters, pOutput) -> {
@@ -74,6 +74,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
+                        pOutput.accept(ModItems.BIOFUEL.get());
                     })
                     .build());
     public static final RegistryObject<CreativeModeTab> MOREFOODS = CREATIVE_MODE_TABS.register("mf",

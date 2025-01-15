@@ -1,0 +1,11 @@
+// 1.20.1	2024-12-03T13:49:58.978644	Tags for minecraft:block mod id untamedhorizons
+5dd3a7e80d3ab2aebae403e5b6b15233f3b25d38 data/forge/tags/blocks/needs_netherite_tool.json
+2d277e0c846846b49def73873e914453c3a4b496 data/minecraft/tags/blocks/fence_gates.json
+40010e75cf7ef60f462f2a9c62bb588e378bac6e data/minecraft/tags/blocks/fences.json
+3eb6f027e8d946ca50814c6a9485bd821e24cc96 data/minecraft/tags/blocks/mineable/pickaxe.json
+85a1724c908f312318f0272676a4223214cb79d4 data/minecraft/tags/blocks/needs_diamond_tool.json
+25ebf9862872a229cc262ba719d563d2580b2241 data/minecraft/tags/blocks/needs_iron_tool.json
+23ff083c8a6cdbb54c3751bb6b5139fcd09b5bf3 data/minecraft/tags/blocks/needs_stone_tool.json
+b73c6885741f0bec8620664a95735b5afa88aeaf data/minecraft/tags/blocks/walls.json
+c0337a24ada6c50c9fce2e59cda0e9d9145d1df5 data/untamedhorizons/tags/blocks/metal_detector_valuables.json
+2d86904a5428c9af44dcc1646a60c10785c6b215 data/untamedhorizons/tags/blocks/needs_sapphire_tool.json

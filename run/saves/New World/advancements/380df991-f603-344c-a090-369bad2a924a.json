@@ -1,121 +1,7 @@
 {
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "stellarity:recipes/slime_ball_from_ender_eye": {
-    "criteria": {
-      "has_item": "2024-11-29 11:06:03 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "kill_dragon": "2024-11-29 13:02:33 -0800"
-    },
-    "done": true
-  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2024-11-29 11:03:41 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2024-11-29 13:03:44 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-11-29 12:59:07 -0800"
-    },
-    "done": true
-  },
-  "stellarity:story/journeys_end": {
-    "criteria": {
-      "activate_portal": "2024-11-29 11:06:35 -0800"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/final_showdown": {
-    "criteria": {
-      "spawn_dragon_first_time": "2024-11-29 11:22:11 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2024-11-29 11:06:03 -0800"
-    },
-    "done": true
-  },
-  "stellarity:story/strengthened_by_fire": {
-    "criteria": {
-      "criteria": "2024-11-29 11:06:03 -0800"
-    },
-    "done": true
-  },
-  "stellarity:aota/obtain_dragonblade": {
-    "criteria": {
-      "requirement": "2024-11-29 13:04:21 -0800"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/dragonblade": {
-    "criteria": {
-      "requirement": "2024-11-29 13:04:21 -0800"
-    },
-    "done": true
-  },
-  "stellarity:adventure/anger_enderman": {
-    "criteria": {
-      "anger_enderman": "2024-11-29 11:35:20 -0800"
     },
     "done": true
   },
@@ -125,117 +11,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-11-29 12:59:07 -0800"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_ender_insignia": {
-    "criteria": {
-      "requirement": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-11-29 11:22:18 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-11-29 11:03:41 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-11-29 11:25:05 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-11-29 11:28:23 -0800"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/trinkets/ender_insignia": {
-    "criteria": {
-      "requirement": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-11-29 11:35:33 -0800"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
-    "criteria": {
-      "requirement2": "2024-11-29 11:27:20 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:enderman": "2024-11-29 11:35:33 -0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 11:30:45 -0800"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_crest_of_the_end": {
-    "criteria": {
-      "requirement": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-11-29 11:06:58 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2024-11-29 13:00:04 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:enderman": "2024-11-29 11:35:33 -0800"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/shulker_things": {
-    "criteria": {
-      "requirement2": "2024-11-29 11:27:20 -0800"
     },
     "done": true
   },
@@ -251,33 +29,111 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/sabrewing": {
+  "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
-      "requirement": "2024-11-29 11:28:23 -0800"
+      "has_item": "2024-11-29 11:06:03 -0800"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "enchanted_golden_apple": "2024-11-29 11:33:55 -0800"
-    },
-    "done": false
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2024-11-29 11:28:23 -0800"
+      "has_ender_eye": "2024-11-29 11:06:03 -0800"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "stellarity:story/strengthened_by_fire": {
     "criteria": {
-      "consumed_item": "2024-11-29 11:33:55 -0800"
+      "criteria": "2024-11-29 11:06:03 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_obsidian": "2024-11-29 12:59:07 -0800"
+      "has_ender_eye": "2024-11-29 11:06:03 -0800"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2024-11-29 11:06:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-29 11:06:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-29 11:06:58 -0800"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2024-11-29 11:07:01 -0800"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2024-11-29 11:21:41 -0800"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2024-11-29 11:22:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 11:22:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 11:22:18 -0800"
     },
     "done": true
   },
@@ -293,18 +149,6 @@
     },
     "done": true
   },
-  "stellarity:dragons_den/sacrificial_ritual": {
-    "criteria": {
-      "requirement": "2024-11-29 11:21:41 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-11-29 11:06:03 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 11:22:18 -0800"
@@ -317,33 +161,15 @@
     },
     "done": true
   },
-  "stellarity:events/first_time_in_end": {
-    "criteria": {
-      "requirement": "2024-11-29 11:07:01 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-29 11:22:18 -0800"
     },
     "done": true
   },
-  "stellarity:story/obtain_an_ender_pearl": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "criteria": "2024-11-29 11:30:45 -0800"
-    },
-    "done": true
-  },
-  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
-    "criteria": {
-      "has_item1": "2024-11-29 12:59:07 -0800"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/trinkets/crest_of_the_end": {
-    "criteria": {
-      "requirement": "2024-11-29 13:02:34 -0800"
+      "has_lots_of_items": "2024-11-29 11:25:05 -0800"
     },
     "done": true
   },
@@ -353,15 +179,213 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
     "criteria": {
-      "entered_end": "2024-11-29 11:06:58 -0800"
+      "requirement2": "2024-11-29 11:27:20 -0800"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement2": "2024-11-29 11:27:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-29 11:28:23 -0800"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2024-11-29 11:28:23 -0800"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2024-11-29 11:28:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 11:30:45 -0800"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-11-29 11:30:45 -0800"
     },
     "done": true
   },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-11-29 11:33:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-11-29 11:33:55 -0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-29 11:33:55 -0800"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2024-11-29 11:35:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 11:35:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2024-11-29 11:35:33 -0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2024-11-29 11:35:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 12:59:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-29 12:59:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 12:59:07 -0800"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2024-11-29 12:59:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-11-29 13:00:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2024-11-29 13:02:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_ender_insignia": {
+    "criteria": {
+      "requirement": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/ender_insignia": {
+    "criteria": {
+      "requirement": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_crest_of_the_end": {
+    "criteria": {
+      "requirement": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/crest_of_the_end": {
+    "criteria": {
+      "requirement": "2024-11-29 13:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-11-29 13:03:44 -0800"
+    },
+    "done": true
+  },
+  "stellarity:aota/obtain_dragonblade": {
+    "criteria": {
+      "requirement": "2024-11-29 13:04:21 -0800"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/dragonblade": {
+    "criteria": {
+      "requirement": "2024-11-29 13:04:21 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 14:31:43 -0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-10 14:31:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 14:31:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 14:31:43 -0800"
     },
     "done": true
   },
